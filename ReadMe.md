@@ -8,11 +8,11 @@ As a developer, write a Java code to read, write, and append to a file.
 ## Introduction: -
 File Handling- File Handling in Java permits us to create, read, update, and delete the files, which are stored on the local file system. There are two types of File handling in Java – FileWriter, and FileReader, which can perform all the file operations in Java Program.
 ## User Expectations: -
-•	To create a File 
-•	Read from a File 
-•	To write a File 
-•	To store a File 
-•	To merge the File
+•	To create a File   
+•	Read from a File   
+•	To write a File   
+•	To store a File   
+•	To merge the File  
 ## Software Requirement: -
 •	Operating system: - windows XP/7/10
 •	language Used: - Java
