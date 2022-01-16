@@ -35,11 +35,11 @@ To write a simple program in Java, you should do research that enables you to un
 user need to check the correct email & check the correct String (collection of characters) of required String.
 
 ## SWOT: -
-SWOT Analysis is a strategic planning tool used to evaluate the Strength, Weakness, Opportunities and threats involved in a project.
-Strength- In which user can create, write, read, store the file.
-Weakness- There can be very small chances that the specific resources required by the user can't be available in the data
-Opportunity- In future we can add extra features & user feedback can also be taken.
-Thread - without Internet connectivity it won't work.
+SWOT Analysis is a strategic planning tool used to evaluate the Strength, Weakness, Opportunities and threats involved in a project.  
+Strength- In which user can create, write, read, store the file.  
+Weakness- There can be very small chances that the specific resources required by the user can't be available in the data  
+Opportunity- In future we can add extra features & user feedback can also be taken.  
+Thread - without Internet connectivity it won't work.  
 
 ## Conclusion: -
 You can perform any file operation (create, read, write, etc.) in your program. File handling in Java is a small concept but, hold an important value.
