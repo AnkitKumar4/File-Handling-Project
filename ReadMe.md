@@ -14,10 +14,10 @@ File Handling- File Handling in Java permits us to create, read, update, and del
 •	To store a File   
 •	To merge the File  
 ## Software Requirement: -
-•	Operating system: - windows XP/7/10
-•	language Used: - Java
-•	Platform: - Eclipse
-•	Tools: - Git, GitHub 
+•	Operating system: - windows XP/7/10  
+•	language Used: - Java  
+•	Platform: - Eclipse  
+•	Tools: - Git, GitHub   
 ## Terms and Concepts: - 
 To write a simple program in Java, you should do research that enables you to understand the following terms and concepts.
 ## Core java concepts:
